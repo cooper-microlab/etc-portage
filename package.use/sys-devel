@@ -1,0 +1,2 @@
+sys-devel/gcc doc graphite jit lto nls nptl openmp pgo sanitize ssp systemtap
+sys-devel/gcc vtv
