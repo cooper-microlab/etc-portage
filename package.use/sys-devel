@@ -4,3 +4,4 @@ sys-devel/clang-runtime compiler-rt libcxx openmp sanitize
 sys-devel/gcc doc graphite jit lto nls nptl openmp pgo sanitize ssp systemtap
 sys-devel/gcc vtv
 sys-devel/gdb multitarget nls python server source-highlight xml xxhash
+sys-devel/llvm binutils-plugin exegesis libffi xar xml z3
