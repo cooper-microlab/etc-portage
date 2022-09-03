@@ -1,1 +1,2 @@
 dev-lang/python ensurepip examples gdbm hardened lto pgo
+dev-lang/rust clippy profiler rls rust-src rustfmt system-llvm wasm
