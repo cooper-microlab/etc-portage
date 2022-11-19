@@ -1,2 +1,3 @@
 sys-libs/glibc nscd
 sys-libs/libcxx -clang
+sys-libs/libcxxabi -clang
