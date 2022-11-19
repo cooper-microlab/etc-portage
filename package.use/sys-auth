@@ -1,0 +1,2 @@
+sys-auth/sssd -acl
+sys-auth/sssd samba ssh sudo
