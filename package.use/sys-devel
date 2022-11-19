@@ -1,5 +1,5 @@
-sys-devel/clang default-compiler-rt default-libcxx default-lld llvm-libunwind
-sys-devel/clang static-analyzer xml
+sys-devel/clang llvm-libunwind static-analyzer xml
+sys-devel/clang-common default-compiler-rt default-libcxx default-lld
 sys-devel/clang-runtime compiler-rt libcxx openmp sanitize
 sys-devel/gcc doc graphite jit lto nls nptl openmp pgo sanitize ssp systemtap
 sys-devel/gcc vtv
