@@ -1,2 +1,3 @@
+dev-libs/boost context
 dev-libs/libpcre2 pcre32
 dev-libs/nss utils
